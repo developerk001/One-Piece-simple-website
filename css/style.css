@@ -1,0 +1,13 @@
+/*
+	Designed By : Sohail Khan
+	email       : designersohail786@gmail.com
+*/
+body {
+	padding-top: 50px;
+}
+.navbar-brand {
+	color: tomato !important;
+}
+#intro .jumbotron {
+	background-color: tomato;
+}
