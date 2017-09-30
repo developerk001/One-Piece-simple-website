@@ -1,13 +1,53 @@
+<style>
 /*
 	Designed By : Sohail Khan
 	email       : designersohail786@gmail.com
 */
 body {
 	padding-top: 50px;
+	font-family: 'Varela Round', sans-serif;
+	line-height: 2.3em;
+  word-spacing: .09em;
+  text-align: justify;
 }
+/**********************************************
+	BOOTSTRAP OVERRIE : START
+**********************************************/
 .navbar-brand {
 	color: tomato !important;
+	font-size: 2em;
 }
-#intro .jumbotron {
+.modal-header,
+.btn {
 	background-color: tomato;
+	color: #fff;
 }
+.jumbotron {
+	padding: 4em 8em 3em 8em;
+}
+/**********************************************
+	BOOTSTRAP OVERRIDE : END
+**********************************************/
+/**********************************************
+	INTRO SECTION : START
+**********************************************/
+#intro img {
+	width: 100%;
+	height: 900%;
+}
+/**********************************************
+	INTRO SECTION : END
+**********************************************/
+/**********************************************
+	OTHERS : START
+**********************************************/
+.tomato {
+	color: tomato;
+}
+.fa-arrow-down {
+	animation-duration: 3s;
+}
+/**********************************************
+	OTHERS : END
+**********************************************/
+</style>
