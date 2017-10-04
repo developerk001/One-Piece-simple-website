@@ -36,7 +36,7 @@ body {
 	color: #fff !important;
 }
 .now {
-	background-color: #eee;
+	background-color: #514c59;
 	color: tomato;
 }
 /**********************************************
@@ -61,7 +61,7 @@ body {
 #features ul li {
 	margin-top: 12px;
 }
-#features .jumbotron .row {
+.box {
 	box-shadow: 0px 0px 31px -4px rgba(0,0,0,0.75);
 	-webkit-box-shadow: 0px 0px 31px -4px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 0px 31px -4px rgba(0,0,0,0.75);
@@ -107,12 +107,28 @@ footer a:hover {
 /**********************************************
 	ABOUT : START
 **********************************************/
-#about h2 {
-	background-color: tomato;
+#about .jumbotron h2.about {
+	background-color: #514c59;
 	padding: .4em 1em;
 	color: #fff;
 }
+img.pp {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	vertical-align: center;
+	margin-top: 3.5em;
+}
 /**********************************************
 	ABOUT : END
+**********************************************/
+/**********************************************
+	CONTACT : START
+**********************************************/
+#contact .row .col-lg-4 {
+	padding-top: 2em;
+}
+/**********************************************
+	CONTACT : END
 **********************************************/
 </style>

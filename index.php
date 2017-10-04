@@ -40,16 +40,17 @@
 <section id="features">
 	<div class="jumbotron">
 		<div class="container-fluid">
-			<div class="row">
+			<div class="row box">
 				<div class="col-lg-6 col-md-6 col-sm-6">
 					<h2 class="tomato">Our Features</h2>
 					<ul>
 						<li><span class="tomato fa fa-check"></span> New Episodes Every Week.</li>
-						<li><span class="tomato fa fa-check"></span> Trimmed Videos</li>
-						<li><span class="tomato fa fa-check"></span> High Qualitiy Vidoes</li>
-						<li><span class="tomato fa fa-check"></span> Downloadable Videos</li>
-						<li><span class="tomato fa fa-check"></span> Watchable In Youtube</li>
-						<li><span class="tomato fa fa-check"></span> High Quality Audio</li>
+						<li><span class="tomato fa fa-check"></span> Trimmed Videos.</li>
+						<li><span class="tomato fa fa-check"></span> High Qualitiy Vidoes.</li>
+						<li><span class="tomato fa fa-check"></span> Downloadable Videos.</li>
+						<li><span class="tomato fa fa-check"></span> Suggession Form.</li>
+						<li><span class="tomato fa fa-check"></span> Response to the form within 24 hours.</li>
+						<li><span class="tomato fa fa-check"></span> High Quality Audio.</li>
 					</ul>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-6">
