@@ -10,7 +10,7 @@
 				<div class="col-lg-3">
 					<center><img class="pp" src="https://t4.ftcdn.net/jpg/00/88/26/19/240_F_88261906_VyyvwLB5uR2DeHW2M4anwxpbUiD1rwVD.jpg"></center>
 				</div>
-				<div class="col-lg-9 box">
+				<div class="col-lg-9">
 					<h2 class="tomato">Myself</h2>
 					<p>My name is Mohammad Sohail Khan. Living at Butwal, Nepal. Learning Full Stack Web Development at Teamtreehouse. I enjoy watcing movies, sports but personally don't play spots. My fav. sport is Cricket and team is Australia.</p>
 
